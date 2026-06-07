@@ -3,3 +3,5 @@ obj/
 *.sln
 .vscode/
 .fake
+api.http
+Migrations/
