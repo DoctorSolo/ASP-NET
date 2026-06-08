@@ -1,8 +1,11 @@
-api/bin/
-api/obj/
 *.sln
 .vscode/
 .fake
+
+# API/
+api/bin/
+api/obj/
 api/api.http
 api/Migrations/
 api/appsettings.json
+api/appsettings.Development.json
